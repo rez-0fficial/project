@@ -34,3 +34,8 @@ body{
     bottom: 0;
     right: 0;
 }
+#header-backimage-center{
+    background-image: url(./img/6356886cv13d.webp);
+    right: 0;
+    height: 320px;
+}
