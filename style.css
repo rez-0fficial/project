@@ -6,10 +6,16 @@
     border: none;
     outline: none;
 }
+
+/*style body*/
+
 body{
     background-color: #ebebeb;
     direction: rtl;
 }
+
+/*style header*/
+
 #header-backimage-right-top{
     background-image: url(./img/marvel-vs-dc.webp);
     background-size: cover;
