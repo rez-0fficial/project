@@ -42,3 +42,8 @@ body{
 .header-backimage-left{
     height: 320px;
 }
+#header-backimage-left-top{
+    background-image: url(./img/best-sport-anime-slamdunk-sk8-hajime-bluelock.webp);
+    top: 0;
+    left: 0;
+}
