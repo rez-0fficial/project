@@ -16,6 +16,9 @@ body{
 
 /*style header*/
 
+.header-backimage-right{
+    height: 320px;
+}
 #header-backimage-right-top{
     background-image: url(./img/marvel-vs-dc.webp);
     background-size: cover;
