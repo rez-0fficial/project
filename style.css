@@ -74,28 +74,28 @@ body{
 }
 #header-h3-right-top{
     position: absolute;
-    right: 0;
-    bottom: 0;
+    right: 5%;
+    bottom: 22%;
 }
 #header-h3-right-bottom{
     position: absolute;
-    right: 0;
-    bottom: 0;
+    right: 4.5%;
+    bottom: 35%;
 }
 #header-h3-center{
     position: absolute;
-    right: 0;
-    bottom: 0;   
+    right: 4%;
+    bottom: 13%;   
 }
 #header-h3-left-top{
     position: absolute;
-    right: 0;
-    bottom: 0;   
+    right: 4%;
+    bottom: 34%; 
 }
 #header-h3-left-bottom{
     position: absolute;
-    right: 0;
-    bottom: 0;   
+    right: 3.5%;
+    bottom: 20%;   
 }
 .header-title-white{
     font-size: 15px;
@@ -104,4 +104,12 @@ body{
     right: 3.5%;
     bottom: 5%;
     line-height: 23px;
+}
+#header-h2-right-bottom{
+    margin-left: 20%;
+    text-align: justify;
+}
+#header-h2-left-top{
+    margin-left: 26%;
+    text-align: justify; 
 }
