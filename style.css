@@ -63,3 +63,38 @@ body{
     bottom: 0;
     left: 0;
 }
+.header-title-orange{
+    font-size: 11px;
+    background: #ff7830;
+    color: #fff;
+    padding-bottom: 4px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-top: 1px;
+
+}
+#header-h3-right-top{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#header-h3-right-bottom{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+#header-h3-center{
+    position: absolute;
+    right: 0;
+    bottom: 0;   
+}
+#header-h3-left-top{
+    position: absolute;
+    right: 0;
+    bottom: 0;   
+}
+#header-h3-left-bottom{
+    position: absolute;
+    right: 0;
+    bottom: 0;   
+}
