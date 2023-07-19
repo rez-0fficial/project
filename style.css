@@ -135,6 +135,11 @@ body{
     bottom: 3.5%;
     color: #fff;
 }
+
+/*end header/*
+
+/*start Media Queries*/
+
 @media screen and (max-width: 768px) {
     #header-backimage-center {
         height: 160px;
@@ -229,3 +234,4 @@ body{
         bottom: 35%;
     }
 }
+/*end Media Queries*/
