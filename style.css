@@ -75,7 +75,7 @@ body{
 #header-h3-right-top{
     position: absolute;
     right: 5%;
-    bottom: 22%;
+    bottom: 27%;
 }
 #header-h3-right-bottom{
     position: absolute;
@@ -95,7 +95,7 @@ body{
 #header-h3-left-bottom{
     position: absolute;
     right: 3.5%;
-    bottom: 20%;   
+    bottom: 26%;   
 }
 .header-title-white{
     font-size: 15px;
@@ -105,6 +105,11 @@ body{
     bottom: 5%;
     line-height: 23px;
 }
+#header-h2-right-top{
+    position: absolute;
+    right: 3.5%;
+    bottom: 12%;
+}
 #header-h2-right-bottom{
     margin-left: 20%;
     text-align: justify;
@@ -113,9 +118,20 @@ body{
     margin-left: 26%;
     text-align: justify; 
 }
+#header-h2-left-bottom{
+    position: absolute;
+    right: 3.5%;
+    bottom: 12%;
+}
 .header-span{
     position: absolute;
     left: 7%;
     bottom: 7%;
+    color: #fff;
+}
+#header-span-center{
+    position: absolute;
+    left: 3%;
+    bottom: 3.5%;
     color: #fff;
 }
