@@ -234,4 +234,16 @@ body{
         bottom: 35%;
     }
 }
+
 /*end Media Queries*/
+
+.footer-container{
+    margin-top: 5%;
+    background-color: #363636;
+    padding-top: 2%;
+}
+.footer-top-h2{
+    color: #fff;
+    font-size: 18px;
+    position: absolute;
+}
