@@ -250,3 +250,10 @@ footer{
     font-size: 18px;
     position: absolute;
 }
+ul{
+    list-style-type: none;
+}
+.footer-img-right{
+    width: 33%;
+    height: 33%;
+}
