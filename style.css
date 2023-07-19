@@ -237,10 +237,11 @@ body{
 
 /*end Media Queries*/
 
-.footer-container{
+footer{
     margin-top: 5%;
-    background-color: #363636;
     padding-top: 2%;
+    padding-right: 10%;
+    background-color: #363636;
 }
 .footer-top-h2{
     color: #fff;
