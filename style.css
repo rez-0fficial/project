@@ -97,3 +97,11 @@ body{
     right: 0;
     bottom: 0;   
 }
+.header-title-white{
+    font-size: 15px;
+    color: #fff;
+    position: absolute;
+    right: 3.5%;
+    bottom: 5%;
+    line-height: 23px;
+}
