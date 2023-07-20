@@ -305,8 +305,6 @@ footer{
 }
 .footer-ul-right{
     list-style-type: none;
-}
-.footer-ul-right{
     text-align: justify;
     margin-top: 16%;
 }
@@ -319,6 +317,23 @@ footer{
     color: #ee2d58;
 }
 .footer-ul-right li a{
+    text-decoration: none;
+    color: #d9d9d9;
+}
+.footer-ul-left{
+    list-style-type: none;
+    text-align: justify;
+    margin-top: 16%;
+}
+.footer-ul-left li{
+    padding-top: 2%;
+    transition: all 0.1s;
+}
+.footer-ul-left li a:hover{
+    cursor: pointer;
+    color: #ee2d58;
+}
+.footer-ul-left li a{
     text-decoration: none;
     color: #d9d9d9;
 }
