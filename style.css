@@ -374,8 +374,10 @@ footer{
     background: #ee2d58;
     padding-right: 25px;
     padding-left: 25px;
-    padding-bottom: 12px;
+    padding-bottom: 8px;
     padding-top: 6px;
     color: #fff;
     font-size: 14px;
+    position: absolute;
+    left: 33%;
 }
