@@ -359,3 +359,14 @@ footer{
 .footer-input:focus{
     box-shadow: 0px 0px 100px -12px #2ebeeb;
 }
+.footer-input-a{
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+    background: #ee2d58;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 12px;
+    padding-top: 6px;
+    color: #fff;
+    font-size: 14px;
+}
