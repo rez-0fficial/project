@@ -303,6 +303,12 @@ footer{
     top: 56%;
     right: 32%;
 }
+.footer-top-right-and-left-a:hover{
+    cursor: pointer;
+    color: #ee2d58;
+    text-decoration: none;
+    transition: all 0.1s;
+}
 .footer-ul-right{
     list-style-type: none;
     text-align: justify;
