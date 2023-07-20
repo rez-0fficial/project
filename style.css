@@ -349,3 +349,13 @@ footer{
     background-color: #1d1d1d;
     border-top-right-radius: 4px;
 }
+.footer-input{
+    background-color: #1d1d1d;
+    color: #565656;
+    height: 35px;
+    padding-bottom: 1.5%;
+    padding-right: 4%;
+}
+.footer-input:focus{
+    box-shadow: 0px 0px 100px -12px #2ebeeb;
+}
