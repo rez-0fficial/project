@@ -254,6 +254,7 @@ footer{
 .footer-right{
     display: flex;
     flex-direction: column;
+    margin-top: 18%;
 }
 .footer-right img{
     width: 33%;
@@ -261,4 +262,18 @@ footer{
 }
 .footer-right a{
     color: #fff;
+    position: absolute;
+}
+#footer-a-right-top{
+    top: 23%;
+    right: 37%;
+    text-align: justify;
+}
+#footer-a-right-center{
+    top: 48%;
+    right: 37%;
+}
+#footer-a-right-bottom{
+    top: 73%;
+    right: 37%;
 }
