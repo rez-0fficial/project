@@ -312,3 +312,11 @@ footer{
     text-align: justify;
     margin-top: 16%;
 }
+.footer-ul-right li{
+    padding-top: 2%;
+    transition: all 0.1s;
+}
+.footer-ul-right li:hover{
+    cursor: pointer;
+    color: #ee2d58;
+}
