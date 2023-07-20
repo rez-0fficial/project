@@ -265,17 +265,17 @@ footer{
     position: absolute;
 }
 #footer-a-right-top{
-    top: 18%;
-    right: 37%;
+    top: 14%;
+    right: 32%;
     text-align: justify;
 }
 #footer-a-right-center{
-    top: 45%;
-    right: 37%;
+    top: 35%;
+    right: 32%;
 }
 #footer-a-right-bottom{
-    top: 72%;
-    right: 37%;
+    top: 56%;
+    right: 32%;
 }
 .footer-left{
     display: flex;
@@ -291,17 +291,17 @@ footer{
     position: absolute;
 }
 #footer-a-left-top{
-    top: 18%;
-    right: 36%;
+    top: 14%;
+    right: 32%;
     text-align: justify;
 }
 #footer-a-left-center{
-    top: 45%;
-    right: 36%;
+    top: 35%;
+    right: 32%;
 }
 #footer-a-left-bottom{
-    top: 72%;
-    right: 36%;
+    top: 56%;
+    right: 32%;
 }
 .footer-ul-right{
     list-style-type: none;
