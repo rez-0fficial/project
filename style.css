@@ -314,10 +314,11 @@ footer{
     padding-top: 2%;
     transition: all 0.1s;
 }
-.footer-ul-right li:hover{
+.footer-ul-right li a:hover{
     cursor: pointer;
     color: #ee2d58;
 }
 .footer-ul-right li a{
+    text-decoration: none;
     color: #d9d9d9;
 }
