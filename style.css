@@ -342,3 +342,10 @@ footer{
     font-size: 20px;
     margin-top: 5%;
 }
+.footer-input-i{
+    border-bottom-right-radius: 4px;
+    color: #fff;
+    padding: 4%;
+    background-color: #1d1d1d;
+    border-top-right-radius: 4px;
+}
