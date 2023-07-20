@@ -307,8 +307,6 @@ footer{
     list-style-type: none;
 }
 .footer-ul-right{
-    list-style-type: none;
-    color: #d9d9d9;
     text-align: justify;
     margin-top: 16%;
 }
@@ -319,4 +317,7 @@ footer{
 .footer-ul-right li:hover{
     cursor: pointer;
     color: #ee2d58;
+}
+.footer-ul-right li a{
+    color: #d9d9d9;
 }
