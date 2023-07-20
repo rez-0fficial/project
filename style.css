@@ -303,3 +303,12 @@ footer{
     top: 72%;
     right: 57%;
 }
+.footer-ul-right{
+    list-style-type: none;
+}
+.footer-ul-right{
+    list-style-type: none;
+    color: #fff;
+    text-align: justify;
+    margin-top: 16%;
+}
