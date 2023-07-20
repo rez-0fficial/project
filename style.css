@@ -277,16 +277,3 @@ footer{
     top: 72%;
     right: 37%;
 }
-.footer-left{
-    display: flex;
-    flex-direction: column;
-    margin-top: 18%;
-}
-.footer-left img{
-    width: 93px;
-    height: 80px;
-}
-.footer-left a{
-    color: #fff;
-    position: absolute;
-}
