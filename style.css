@@ -277,3 +277,29 @@ footer{
     top: 72%;
     right: 37%;
 }
+.footer-left{
+    display: flex;
+    flex-direction: column;
+    margin-top: 18%;
+}
+.footer-left img{
+    width: 93px;
+    height: 80px;
+}
+.footer-left a{
+    color: #fff;
+    position: absolute;
+}
+#footer-a-left-top{
+    top: 18%;
+    right: 57%;
+    text-align: justify;
+}
+#footer-a-left-center{
+    top: 45%;
+    right: 57%;
+}
+#footer-a-left-bottom{
+    top: 72%;
+    right: 57%;
+}
