@@ -362,6 +362,8 @@ footer{
     height: 35px;
     padding-bottom: 1.5%;
     padding-right: 4%;
+    position: absolute;
+    right: -23%;
 }
 .footer-input:focus{
     box-shadow: 0px 0px 100px -12px #2ebeeb;
