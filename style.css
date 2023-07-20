@@ -257,23 +257,23 @@ footer{
     margin-top: 18%;
 }
 .footer-right img{
-    width: 33%;
-    height: 33%;
+    width: 93px;
+    height: 80px;
 }
 .footer-right a{
     color: #fff;
     position: absolute;
 }
 #footer-a-right-top{
-    top: 23%;
+    top: 18%;
     right: 37%;
     text-align: justify;
 }
 #footer-a-right-center{
-    top: 48%;
+    top: 45%;
     right: 37%;
 }
 #footer-a-right-bottom{
-    top: 73%;
+    top: 72%;
     right: 37%;
 }
