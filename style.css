@@ -251,32 +251,7 @@ footer{
     font-size: 18px;
     position: absolute;
 }
-ul{
-    list-style-type: none;
-}
-.footer-img-right{
-    width: 33%;
-    height: 50%;
-}
-#footer-img-right-top{
-    position: absolute;
-    right: 5%;
-    top: 47px;
-    width: 30%;
-    height: 74px;
-}
-#footer-img-right-center{
-    position: absolute;
-    right: 5%;
-    top: 121px;
-    width: 30%;
-    height: 74px;
-}
-#footer-img-right-bottom{
-    position: absolute;
-    right: 5%;
-    top: 195px;
-    width: 30%;
-    height: 74px;
-    background-size: cover;
+#test{
+    display: flex;
+    flex-direction: column;
 }
