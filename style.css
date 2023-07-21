@@ -441,77 +441,43 @@ footer{
     .footer-input{
         right: -27%;
     }
-    #footer-a-right-top{
+    #footer-a-right-top, #footer-a-left-top{
         top: 15%;
         right: 29%;
     }
-    #footer-a-right-center{
+    #footer-a-right-center, #footer-a-left-center{
         top: 35%;
         right: 29%;
     }
-    #footer-a-right-bottom{
-        top: 56%;
-        right: 29%;
-    }#footer-a-left-top{
-        top: 15%;
-        right: 29%;
-    }
-    #footer-a-left-center{
-        top: 35%;
-        right: 29%;
-    }
-    #footer-a-left-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 56%;
         right: 29%;
     }
 }
 @media screen and (max-width: 1754px) {
-    #footer-a-right-top{
+    #footer-a-right-top, #footer-a-left-top{
         top: 15%;
         right: 32%;
     }
-    #footer-a-right-center{
+    #footer-a-right-center,#footer-a-left-center{
         top: 35%;
         right: 32%;
     }
-    #footer-a-right-bottom{
-        top: 56%;
-        right: 32%;
-    }#footer-a-left-top{
-        top: 15%;
-        right: 32%;
-    }
-    #footer-a-left-center{
-        top: 35%;
-        right: 32%;
-    }
-    #footer-a-left-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 56%;
         right: 32%;
     }
 }
 @media screen and (max-width: 1631px) {
-    #footer-a-right-top{
+    #footer-a-right-top,#footer-a-left-top{
         top: 15%;
         right: 35%;
     }
-    #footer-a-right-center{
+    #footer-a-right-center, #footer-a-left-center{
         top: 35%;
         right: 35%;
     }
-    #footer-a-right-bottom{
-        top: 56%;
-        right: 35%;
-    }#footer-a-left-top{
-        top: 15%;
-        right: 35%;
-        text-align: justify;
-    }
-    #footer-a-left-center{
-        top: 35%;
-        right: 35%;
-    }
-    #footer-a-left-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 56%;
         right: 35%;
     }
@@ -554,7 +520,7 @@ footer{
     }
 }
 @media screen and (max-width: 1316px) {
-    #footer-a-right-top{
+    #footer-a-right-top, #footer-a-left-top{
         top: 12%;
         right: 42%;
     }
@@ -562,25 +528,17 @@ footer{
         top: 36%;
         right: 42%;
     }
-    #footer-a-right-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 60%;
         right: 42%;
-    }#footer-a-left-top{
-        top: 12%;
-        right: 42%;
-    
     }
     #footer-a-left-center{
         top: 37%;
-        right: 42%;
-    }
-    #footer-a-left-bottom{
-        top: 60%;
         right: 42%;
     }
 }
 @media screen and (max-width: 1244px) {
-    #footer-a-right-top{
+    #footer-a-right-top, #footer-a-left-top{
         top: 12%;
         right: 44%;
     }
@@ -588,25 +546,17 @@ footer{
         top: 36%;
         right: 44%;
     }
-    #footer-a-right-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 60%;
         right: 44%;
-    }#footer-a-left-top{
-        top: 12%;
-        right: 44%;
-    
     }
     #footer-a-left-center{
         top: 37%;
         right: 44%;
     }
-    #footer-a-left-bottom{
-        top: 60%;
-        right: 44%;
-    }
 }
 @media screen and (max-width: 1169px) {
-    #footer-a-right-top{
+    #footer-a-right-top, #footer-a-left-top{
         top: 12%;
         right: 47%;
     }
@@ -614,20 +564,12 @@ footer{
         top: 38%;
         right: 47%;
     }
-    #footer-a-right-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 63%;
         right: 47%;
-    }#footer-a-left-top{
-        top: 12%;
-        right: 47%;
-    
     }
     #footer-a-left-center{
         top: 39%;
-        right: 47%;
-    }
-    #footer-a-left-bottom{
-        top: 63%;
         right: 47%;
     }
 }
@@ -640,7 +582,7 @@ footer{
         top: 38%;
         right: 50%;
     }
-    #footer-a-right-bottom{
+    #footer-a-right-bottom, #footer-a-left-bottom{
         top: 63%;
         right: 50%;
     }#footer-a-left-top{
@@ -652,25 +594,21 @@ footer{
         top: 39%;
         right: 50%;
     }
-    #footer-a-left-bottom{
-        top: 63%;
-        right: 50%;
-    }
 }
 @media screen and (max-width: 991px) {
     .footer-right{
         margin-top: 7%;
         margin-bottom: 2%;
     }
-    #footer-a-right-top {
+    #footer-a-right-top, #footer-a-left-top {
         top: 18%;
         right: 15%;
     }
-    #footer-a-right-center {
+    #footer-a-right-center,  #footer-a-left-center{
         top: 43%;
         right: 15%;
     }
-    #footer-a-right-bottom {
+    #footer-a-right-bottom, #footer-a-left-bottom {
         top: 69%;
         right: 15%;
     }    
@@ -678,18 +616,6 @@ footer{
         margin-top: 7%;
         margin-bottom: 2%;
     }
-    #footer-a-left-top {
-        top: 18%;
-        right: 15%;
-    }
-    #footer-a-left-center {
-        top: 43%;
-        right: 15%;
-    }
-    #footer-a-left-bottom {
-        top: 69%;
-        right: 15%;
-    }   
     .footer-center{
         opacity: 1;
     }
@@ -727,56 +653,34 @@ footer{
     .footer-input-i {
         padding-bottom: 1.6%;
     }
-    #footer-a-right-top {
+    #footer-a-right-top, #footer-a-left-top {
         top: 18%;
         right: 17%;
     }
-    #footer-a-right-center {
+    #footer-a-right-center, #footer-a-left-center {
         top: 43%;
         right: 17%;
     }
-    #footer-a-right-bottom {
+    #footer-a-right-bottom, #footer-a-left-bottom {
         top: 69%;
         right: 17%;
-    }      #footer-a-left-top {
-        top: 18%;
-        right: 17%;
     }
-    #footer-a-left-center {
-        top: 43%;
-        right: 17%;
-    }
-    #footer-a-left-bottom {
-        top: 69%;
-        right: 17%;
-    }   
 }
 @media screen and (max-width: 862px) {
     .footer-input-i {
         padding-bottom: 1.9%;
         margin-right: -55%;
     }
-    #footer-a-right-top {
+    #footer-a-right-top, #footer-a-left-top{
         top: 18%;
         right: 19%;
     }
-    #footer-a-right-center {
+    #footer-a-right-center, #footer-a-left-center {
         top: 43%;
         right: 19%;
     }
-    #footer-a-right-bottom {
+    #footer-a-right-bottom, #footer-a-left-bottom {
         top: 69%;
         right: 19%;
-    }      #footer-a-left-top {
-        top: 18%;
-        right: 19%;
-    }
-    #footer-a-left-center {
-        top: 43%;
-        right: 19%;
-    }
-    #footer-a-left-bottom {
-        top: 69%;
-        right: 19%;
-    } 
+    }      
 }
