@@ -792,3 +792,21 @@ footer{
         right: 32%;
     }  
 }
+@media screen and (max-width: 408px) {
+    .footer-input-i {
+        padding-bottom: 2.1%;
+        padding-top: 2.1%;
+    }
+    #footer-a-right-top, #footer-a-left-top{
+        top: 10%;
+        right: 36%;
+    }
+    #footer-a-right-center, #footer-a-left-center {
+        top: 40%;
+        right: 36%;
+    }
+    #footer-a-right-bottom, #footer-a-left-bottom {
+        top: 68%;
+        right: 36%;
+    }  
+}
