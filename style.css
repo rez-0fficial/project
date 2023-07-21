@@ -860,3 +860,41 @@ footer{
         right: 43%;
     }  
 }
+@media screen and (max-width: 320px) {
+    .footer-input-i {
+        padding-bottom: 2.6%;
+        padding-top: 2.6%;
+        margin-right: 22%;
+    }
+    #footer-a-right-top, #footer-a-left-top{
+        top: 13%;
+        right: 43%;
+    }
+    #footer-a-right-center, #footer-a-left-center {
+        top: 40%;
+        right: 43%;
+    }
+    #footer-a-right-bottom, #footer-a-left-bottom {
+        top: 65%;
+        right: 43%;
+    }  
+    .footer-center {
+        margin-top: 12%;
+    }
+    .footer-right {
+        margin-top: 20%;
+    }
+    .footer-left {
+        margin-top: 20%; 
+        margin-bottom: 12%;
+    }
+    .footer-ul-right {
+        margin-top: 17%;
+    }
+    .footer-ul-left {
+        margin-top: 17%;
+    }
+    .footer-bottom-div-row {
+        margin-top: 8%;
+    }
+}
