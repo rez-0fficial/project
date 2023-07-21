@@ -279,10 +279,12 @@ footer{
 #footer-a-right-center{
     top: 35%;
     right: 34%;
+    text-align: justify;
 }
 #footer-a-right-bottom{
     top: 56%;
     right: 34%;
+    text-align: justify;
 }
 .footer-left{
     display: flex;
@@ -305,10 +307,12 @@ footer{
 #footer-a-left-center{
     top: 35%;
     right: 34%;
+    text-align: justify;
 }
 #footer-a-left-bottom{
     top: 56%;
     right: 34%;
+    text-align: justify;
 }
 .footer-top-right-and-left-a:hover{
     cursor: pointer;
@@ -440,7 +444,6 @@ footer{
     #footer-a-right-top{
         top: 15%;
         right: 29%;
-        text-align: justify;
     }
     #footer-a-right-center{
         top: 35%;
@@ -452,7 +455,6 @@ footer{
     }#footer-a-left-top{
         top: 15%;
         right: 29%;
-        text-align: justify;
     }
     #footer-a-left-center{
         top: 35%;
@@ -467,7 +469,6 @@ footer{
     #footer-a-right-top{
         top: 15%;
         right: 32%;
-        text-align: justify;
     }
     #footer-a-right-center{
         top: 35%;
@@ -479,7 +480,6 @@ footer{
     }#footer-a-left-top{
         top: 15%;
         right: 32%;
-        text-align: justify;
     }
     #footer-a-left-center{
         top: 35%;
@@ -494,7 +494,6 @@ footer{
     #footer-a-right-top{
         top: 15%;
         right: 35%;
-        text-align: justify;
     }
     #footer-a-right-center{
         top: 35%;
@@ -524,7 +523,6 @@ footer{
         #footer-a-right-top{
             top: 15%;
             right: 40%;
-            text-align: justify;
         }
         #footer-a-right-center{
             top: 35%;
@@ -536,7 +534,7 @@ footer{
         }#footer-a-left-top{
             top: 15%;
             right: 40%;
-            text-align: justify;
+
         }
         #footer-a-left-center{
             top: 35%;
