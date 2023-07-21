@@ -752,6 +752,9 @@ footer{
     .footer-input-a {
         left: -6%;
     }
+    .footer-center {
+        margin-top: 12%;
+    }
 }
 @media screen and (max-width: 497px) {
     .footer-input-i {
