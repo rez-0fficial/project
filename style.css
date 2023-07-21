@@ -521,15 +521,15 @@ footer{
 }
 @media screen and (max-width: 1474px) {
         #footer-a-right-top{
-            top: 15%;
+            top: 16%;
             right: 40%;
         }
         #footer-a-right-center{
-            top: 35%;
+            top: 36%;
             right: 40%;
         }
         #footer-a-right-bottom{
-            top: 56%;
+            top: 59%;
             right: 40%;
         }#footer-a-left-top{
             top: 15%;
@@ -537,11 +537,11 @@ footer{
 
         }
         #footer-a-left-center{
-            top: 35%;
+            top: 37%;
             right: 40%;
         }
         #footer-a-left-bottom{
-            top: 56%;
+            top: 58%;
             right: 40%;
         }
         .footer-input-i {
