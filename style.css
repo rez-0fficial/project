@@ -702,3 +702,21 @@ footer{
         right: 23%;
     }      
 }
+@media screen and (max-width: 595px) {
+    .footer-input-i {
+        padding-bottom: 3.9%;
+        margin-right: -61%;
+    }
+    #footer-a-right-top, #footer-a-left-top{
+        top: 18%;
+        right: 25%;
+    }
+    #footer-a-right-center, #footer-a-left-center {
+        top: 43%;
+        right: 25%;
+    }
+    #footer-a-right-bottom, #footer-a-left-bottom {
+        top: 69%;
+        right: 25%;
+    }      
+}
