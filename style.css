@@ -898,3 +898,17 @@ footer{
         margin-top: 8%;
     }
 }
+@media screen and (max-width: 304px) {
+    .footer-input-i {
+        padding-bottom: 2.9%;
+        padding-top: 2.9%;
+        margin-right: 25%;
+    }
+    .footer-input {
+        right: 11%;
+        width: 64%;
+    }
+    .footer-input-a {
+        left: -3%;
+    }    
+}
