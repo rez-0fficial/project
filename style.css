@@ -767,6 +767,9 @@ footer{
     .footer-ul-left {
         margin-top: 10%;
     }
+    .footer-top-h2{
+        margin-top: 3%;
+    }
 }
 @media screen and (max-width: 497px) {
     .footer-input-i {
@@ -911,4 +914,31 @@ footer{
     .footer-input-a {
         left: -3%;
     }    
+}
+@media screen and (max-width: 292px) {
+    #footer-a-right-top, #footer-a-left-top{
+        top: 16%;
+        right: 51%;
+    }
+    #footer-a-right-center, #footer-a-left-center {
+        top: 42%;
+        right: 51%;
+    }
+    #footer-a-right-bottom, #footer-a-left-bottom {
+        top: 67%;
+        right: 51%;
+    }  
+    .footer-center{
+        opacity: 0;
+    }
+    .footer-right {
+        margin-top: 30%;
+        margin-bottom: 12%;
+    }
+    .footer-left {
+        margin-top: 30%;
+    }
+    .footer-top-h2{
+        margin-top: 7%;
+    }
 }
