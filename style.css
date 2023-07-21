@@ -409,3 +409,8 @@ footer{
     height: 42px;
     display: block;
 }
+.footer-bottom-left p{
+    float: right;
+    color: #fff;
+    font-size: 15px;
+}
