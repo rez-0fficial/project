@@ -387,3 +387,19 @@ footer{
     position: absolute;
     left: 49%;
 }
+.footer-bottom-right{
+    width: 100%;
+    display: flex;
+}
+.footer-bottom-right i{
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 1.5%;
+    margin: 1%;
+}
+#footer-bottom-icon-facebook{
+    padding-right: 2%;
+    padding-left: 2%;
+    padding-bottom: 1.5%;
+    padding-top: 1.5%;
+}
