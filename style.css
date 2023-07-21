@@ -273,16 +273,16 @@ footer{
 }
 #footer-a-right-top{
     top: 14%;
-    right: 32%;
+    right: 34%;
     text-align: justify;
 }
 #footer-a-right-center{
     top: 35%;
-    right: 32%;
+    right: 34%;
 }
 #footer-a-right-bottom{
     top: 56%;
-    right: 32%;
+    right: 34%;
 }
 .footer-left{
     display: flex;
@@ -299,16 +299,16 @@ footer{
 }
 #footer-a-left-top{
     top: 14%;
-    right: 32%;
+    right: 34%;
     text-align: justify;
 }
 #footer-a-left-center{
     top: 35%;
-    right: 32%;
+    right: 34%;
 }
 #footer-a-left-bottom{
     top: 56%;
-    right: 32%;
+    right: 34%;
 }
 .footer-top-right-and-left-a:hover{
     cursor: pointer;
