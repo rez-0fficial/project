@@ -243,8 +243,12 @@ footer{
     margin-top: 5%;
     padding-top: 2%;
     padding-right: 7%;
+    padding-left: 7%;
     background-color: #363636;
     height: auto;
+}
+.footer-container{
+    border-bottom: 1px solid #d0d0d0;
 }
 .footer-top-h2{
     color: #fff;
