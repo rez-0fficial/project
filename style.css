@@ -426,6 +426,7 @@ footer{
     float: right;
     color: #fff;
     font-size: 15px;
+    text-align: justify;
 }
 .footer-bottom-div-row{
     margin-top: 2%;
