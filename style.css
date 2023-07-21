@@ -728,15 +728,15 @@ footer{
         padding-top: 1.5%;
     }
     #footer-a-right-top, #footer-a-left-top{
-        top: 13%;
+        top: 20%;
         right: 27%;
     }
     #footer-a-right-center, #footer-a-left-center {
-        top: 38%;
+        top: 46%;
         right: 27%;
     }
     #footer-a-right-bottom, #footer-a-left-bottom {
-        top: 64%;
+        top: 70%;
         right: 27%;
     }     
     .footer-ul-right{
@@ -755,6 +755,18 @@ footer{
     .footer-center {
         margin-top: 12%;
     }
+    .footer-right {
+        margin-top: 15%;
+    }
+    .footer-left {
+        margin-top: 15%;
+    }
+    .footer-ul-right {
+        margin-top: 10%;
+    }
+    .footer-ul-left {
+        margin-top: 10%;
+    }
 }
 @media screen and (max-width: 497px) {
     .footer-input-i {
@@ -762,15 +774,15 @@ footer{
         padding-top: 1.6%;
     }
     #footer-a-right-top, #footer-a-left-top{
-        top: 12%;
+        top: 18%;
         right: 29%;
     }
     #footer-a-right-center, #footer-a-left-center {
-        top: 40%;
+        top: 44%;
         right: 29%;
     }
     #footer-a-right-bottom, #footer-a-left-bottom {
-        top: 68%;
+        top: 72%;
         right: 29%;
     }  
 }
@@ -780,7 +792,7 @@ footer{
         padding-top: 1.7%;
     }
     #footer-a-right-top, #footer-a-left-top{
-        top: 10%;
+        top: 14%;
         right: 32%;
     }
     #footer-a-right-center, #footer-a-left-center {
@@ -798,7 +810,7 @@ footer{
         padding-top: 2.1%;
     }
     #footer-a-right-top, #footer-a-left-top{
-        top: 10%;
+        top: 13%;
         right: 36%;
     }
     #footer-a-right-center, #footer-a-left-center {
@@ -827,5 +839,24 @@ footer{
     #footer-a-right-bottom, #footer-a-left-bottom {
         top: 68%;
         right: 40%;
+    }  
+}
+@media screen and (max-width: 339px) {
+    .footer-input-i {
+        padding-bottom: 2.5%;
+        padding-top: 2.5%;
+        margin-right: 22%;
+    }
+    #footer-a-right-top, #footer-a-left-top{
+        top: 11%;
+        right: 43%;
+    }
+    #footer-a-right-center, #footer-a-left-center {
+        top: 40%;
+        right: 43%;
+    }
+    #footer-a-right-bottom, #footer-a-left-bottom {
+        top: 68%;
+        right: 43%;
     }  
 }
