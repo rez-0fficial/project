@@ -403,3 +403,9 @@ footer{
     padding-bottom: 1.5%;
     padding-top: 1.5%;
 }
+.footer-bottom-center a{
+    background: url(./img/footerLogo.webp) no-repeat center;
+    width: 246px;
+    height: 42px;
+    display: block;
+}
