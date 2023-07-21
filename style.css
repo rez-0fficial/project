@@ -463,3 +463,30 @@ footer{
         right: 29%;
     }
 }
+@media screen and (max-width: 1754px) {
+    #footer-a-right-top{
+        top: 15%;
+        right: 32%;
+        text-align: justify;
+    }
+    #footer-a-right-center{
+        top: 35%;
+        right: 32%;
+    }
+    #footer-a-right-bottom{
+        top: 56%;
+        right: 32%;
+    }#footer-a-left-top{
+        top: 15%;
+        right: 32%;
+        text-align: justify;
+    }
+    #footer-a-left-center{
+        top: 35%;
+        right: 32%;
+    }
+    #footer-a-left-bottom{
+        top: 56%;
+        right: 32%;
+    }
+}
