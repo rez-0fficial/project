@@ -605,3 +605,29 @@ footer{
         right: 44%;
     }
 }
+@media screen and (max-width: 1169px) {
+    #footer-a-right-top{
+        top: 12%;
+        right: 47%;
+    }
+    #footer-a-right-center{
+        top: 38%;
+        right: 47%;
+    }
+    #footer-a-right-bottom{
+        top: 63%;
+        right: 47%;
+    }#footer-a-left-top{
+        top: 12%;
+        right: 47%;
+    
+    }
+    #footer-a-left-center{
+        top: 39%;
+        right: 47%;
+    }
+    #footer-a-left-bottom{
+        top: 63%;
+        right: 47%;
+    }
+}
