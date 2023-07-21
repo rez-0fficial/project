@@ -704,4 +704,22 @@ footer{
     .footer-input-a{
         left: -12%;
     }
+    .footer-bottom-right i {
+        font-size: 17px;
+    }
+    #footer-bottom-icon-facebook {
+        padding-right: 2%;
+        padding-left: 2%;
+    }
+    .footer-bottom-right {
+        justify-content: center;
+        margin-bottom: 2.5%;
+    }
+    .footer-bottom-center a{
+        margin: 0 auto;
+        margin-bottom: 2.5%;
+    }
+    .footer-bottom-left p{
+        margin-right: -5%;
+    }
 }
