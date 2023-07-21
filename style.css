@@ -490,3 +490,33 @@ footer{
         right: 32%;
     }
 }
+@media screen and (max-width: 1631px) {
+    #footer-a-right-top{
+        top: 15%;
+        right: 35%;
+        text-align: justify;
+    }
+    #footer-a-right-center{
+        top: 35%;
+        right: 35%;
+    }
+    #footer-a-right-bottom{
+        top: 56%;
+        right: 35%;
+    }#footer-a-left-top{
+        top: 15%;
+        right: 35%;
+        text-align: justify;
+    }
+    #footer-a-left-center{
+        top: 35%;
+        right: 35%;
+    }
+    #footer-a-left-bottom{
+        top: 56%;
+        right: 35%;
+    }
+    .footer-input-i {
+        padding-bottom: 2.1%;
+    }
+}
